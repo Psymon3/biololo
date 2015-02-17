@@ -2,5 +2,18 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/junit.jar"/>
+	<classpathentry kind="lib" path="libs/trove-3.0.3.jar"/>
+	<classpathentry kind="lib" path="libs/lombok.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.4.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/fluent-hc-4.4.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-cache-4.4.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-win-4.4.jar"/>
+	<classpathentry kind="lib" path="libs/httpmime-4.4.jar"/>
+	<classpathentry kind="lib" path="libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/jna-platform-4.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
